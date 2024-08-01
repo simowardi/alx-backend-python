@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Defines a function that takes an iterable object and returns a list of tuples
 containing the original element and its length.

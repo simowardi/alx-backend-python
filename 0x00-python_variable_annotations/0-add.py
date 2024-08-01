@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Defines a function that adds two floats and returns their sum.
 

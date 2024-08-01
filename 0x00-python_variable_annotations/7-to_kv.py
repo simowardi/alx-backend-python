@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Defines a function that returns a tuple with a string and the square of a number.
 

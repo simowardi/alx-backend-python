@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Defines and annotates several variables with specific values.
 """

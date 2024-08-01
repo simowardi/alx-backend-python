@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Defines a function that returns the string representation of a float.
 

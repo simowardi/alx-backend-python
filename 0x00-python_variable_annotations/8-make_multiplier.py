@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Defines a function that returns a function that multiplies a float by a given multiplier.
 
